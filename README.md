@@ -1,5 +1,7 @@
 # PropIntel-AI-Powered-Real-Estate-Data-Pipeline
 
+![Uploading image.png…]()
+
 This project is an end-to-end real estate data engineering pipeline that leverages AI and modern data technologies to extract, process, and store real-time property information.
 
 The pipeline begins by gathering property data from Zoopla, a major online real estate platform. Using the Bright Data Web Scraper, property listings, images, prices, and other essential details are extracted. These details are processed by a Large Language Model (LLM) powered by OpenAI, which refines the data, performs transformations, and structures it into a more useful format.
