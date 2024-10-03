@@ -1,6 +1,6 @@
 # PropIntel-AI-Powered-Real-Estate-Data-Pipeline
 
-![Uploading image.png…]()
+![Screenshot 2024-10-03 231356](https://github.com/user-attachments/assets/f0b4bac5-7539-4247-933c-3a83d021e254)
 
 This project is an end-to-end real estate data engineering pipeline that leverages AI and modern data technologies to extract, process, and store real-time property information.
 
